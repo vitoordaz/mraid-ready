@@ -1,0 +1,23 @@
+{
+    "name": "mraidReady",
+    "version": "0.0.1",
+    "description": "An AMD loader plugin for detecting MRAID ready.",
+    "categories": [
+        "Loader plugins"
+    ],
+    "main": "mraidReady.js",
+    "github": "https://github.com/vitoordaz/mraidReady",
+    "bugs": {
+        "web": "https://github.com/vitoordaz/mraidReady/issues"
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/vitoordaz/mraidReady.git"
+        }
+    ],
+    "license": "MIT",
+    "volo": {
+        "url": "https://raw.github.com/vitoordaz/mraidReady/{version}/mraidReady.js"
+    }
+}
