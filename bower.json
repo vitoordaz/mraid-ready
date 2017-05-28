@@ -1,6 +1,6 @@
 {
   "name": "mraidReady",
   "version": "0.0.1",
-  "main": "mraidReady.js",
+  "main": "mraidReady.min.js",
   "license": "MIT"
 }
